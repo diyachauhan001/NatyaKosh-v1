@@ -1,7 +1,20 @@
-# NatyaKosh-v1
-Console-based Student Management System built using Java
+# Natya Kosha – Student Management System
 
-Natya Kosha is a console-based Student Management System built using Java. 
-It supports CRUD operations such as adding students, enrolling them in courses, viewing details, and managing tuition payments. 
-I used Java OOP concepts like classes, constructors, static variables for unique IDs, and ArrayList for in-memory data storage. 
-The project follows separation of concerns by handling business logic in a service class.
+A console-based Java application that manages student enrollment, courses, and tuition payments.
+
+## Features
+- Add students
+- Enroll in courses
+- View student details
+- Pay tuition fees
+- Menu-driven console interface
+
+## Technologies Used
+- Java
+- OOP concepts
+- ArrayList
+- Scanner
+
+## Future Enhancements
+- JavaFX user interface
+- Database integration
